@@ -25,15 +25,15 @@ function Navigation() {
                         {dropdown && <Dropdown />}
 
                     </div>
-                    <div style={{transition:'all 0.6s'}}>
-                        {hoverdown && <HoverDown style={{transition:'all 1sec'}}/>}
+                    <div >
+                        {hoverdown && <HoverDown />}
                     </div>
                     <div className='hands' style={{backgroundColor:'blue', height:'60px',marginLeft:'10px'}}>
                         <FaRegHandPaper style={{marginLeft:'2px', marginTop:'10px',height:'30px',backgroundColor:'blue', width:'40px'}}/>
                     </div>
                 </div>
                 <div>
-                    <p1 style={{fontSize:'25px'}}>Webpage Desgn</p1>
+                    <p1 style={{fontSize:'25px'}}>Webpage Design</p1>
                     
                 </div>
               

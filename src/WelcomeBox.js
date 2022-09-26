@@ -15,8 +15,8 @@ function WelcomeBox() {
                 <b>Welcome to Figma!</b> Create an account to edit and collaborate on this file.
             </div>
             <div style={{marginRight:'15px'}}>
-                <button className="pop-up-button">Continue with Google</button>
-                <button className="pop-up-button">Sign up with email</button>
+                <button className="pop-up-button google"><img src="google.png" className='google-icon'/>Continue with Google</button>
+                <button className="pop-up-button">Sign up with emal</button>
 
             </div>
         </div>

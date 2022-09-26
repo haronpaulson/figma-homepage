@@ -21,10 +21,24 @@
     width: 160px;
     font-weight: 600;
     transition: 1s;
+    align-items: center;
 }
 .pop-up-button:hover {
     background-color: green;
    
+}
+.google-icon {
+    width: 15px;
+    align-items: flex-start;
+    margin-right: 15px;
+    object-fit: contain;
+    
+   
+}
+.google {
+    width: 200px !important;
+    
+    
 }
 
 .figma-img {
