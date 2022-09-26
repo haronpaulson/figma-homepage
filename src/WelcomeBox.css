@@ -1,0 +1,26 @@
+.pop-up-box {
+  
+    border-radius: 10px;
+    background-color: white;
+    height: 60px;
+    position: absolute;
+    top: 10%;
+    left:130px;
+    display: flex;
+    width:80%;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: -8px 7px 20px 10px rgba(0,0,0,0.4);
+}
+
+.pop-up-button {
+    background-color: whitesmoke;
+    margin-left: 10px;
+    border-radius: 10px;
+    height:30px;
+    width: 160px;
+    font-weight: 600;
+}
+.pop-up-button:hover {
+    background-color: green;
+}

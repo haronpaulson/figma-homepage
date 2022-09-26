@@ -1,0 +1,48 @@
+.content {
+    
+    margin-left: 30%;
+    align-items: flex-start;
+
+}
+
+.typography {
+    display: flex;
+    margin-bottom: 15px;
+}
+.content-image {
+    width: 100px;
+    height: 70px;
+    border-radius: 0px;
+}
+.headingg {
+    margin-right: 20px;
+    font-size: 33px;
+}
+
+.lengthy {
+    height: 90px !important;
+}
+
+.images {
+    display: flex;
+    margin-left: 155px;
+}
+
+.six {
+    padding-right: 10px !important;
+    margin-right: 15px !important;
+}
+
+.last-image {
+
+}
+
+
+.lastt {
+    padding-top: 25px;
+    padding-left: 29px;
+
+}
+
+
+
