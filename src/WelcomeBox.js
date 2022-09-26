@@ -8,7 +8,8 @@ function WelcomeBox() {
         <h1>welcome</h1>
         <div className="pop-up-box">
             <div className="figma-icon">
-                <FiFigma style={{marginLeft:'15px',height:'30px', width:'25px'}} />
+               
+                <img src="figma.png" className="figma-img" />
             </div>
             <div style={{marginRight:'230px'}}>
                 <b>Welcome to Figma!</b> Create an account to edit and collaborate on this file.

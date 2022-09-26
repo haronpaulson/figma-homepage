@@ -20,7 +20,14 @@
     height:30px;
     width: 160px;
     font-weight: 600;
+    transition: 1s;
 }
 .pop-up-button:hover {
     background-color: green;
+   
+}
+
+.figma-img {
+    width: 27px;
+    padding-left: 20px;
 }

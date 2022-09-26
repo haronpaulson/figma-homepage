@@ -1,0 +1,27 @@
+.hover-down {
+    background-color: black;
+    position: absolute;
+    top: 66px;
+    left: 27px;
+    color: white;
+    padding: 4px;
+    border-radius: 5px;
+    
+}
+
+
+
+.triangle {
+    position: absolute;
+    top: 60px;
+    left: 58px;
+    translate: y(40px);
+  
+    
+    border-left:10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 10px solid black;
+    
+    
+
+}
